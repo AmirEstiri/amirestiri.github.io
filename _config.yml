@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ali Teshnizi"
-description              : &description "PhD Student"
-url                      : https://teshnizi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Amir Estiri"
+description              : &description "Research Engineer"
+url                      : https://AmirEstiri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "teshnizi.github.io"
+repository               : "AmirEstiri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Amir (Hossein) Estiri"
-  avatar           : "avatar.png"
+  avatar           : "amir-avatar.png"
   bio              : "Research Engineer @ Huawei Noah's Ark Lab"
   location         : "Montreal, Canada"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "ateshnizi"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
